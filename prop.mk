@@ -86,7 +86,8 @@ vendor.camera.aux.packagelist2=com.google.android.GoogleCameraWide,com.dual.GCam
 
 # Charger
 PRODUCT_PRODUCT_PROPERTIES += \
-    ro.charger.enable_suspend=true
+ro.charger.disable_init_blank=true \
+ro.charger.enable_suspend=true
 
 # Cne/Dpm
 PRODUCT_PROPERTY_OVERRIDES += \
