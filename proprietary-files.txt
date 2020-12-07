@@ -1,17 +1,21 @@
-# Audio ACDB - from ysl PKQ1.181203.001/V10.3.2.0.PEFCNXM
-vendor/etc/acdbdata/MTP/MTP_General_cal.acdb|02537094993f0a7c07ffd3ac8194122f32bca54c
-vendor/etc/acdbdata/MTP/MTP_Global_cal.acdb|599e45c7811165031df865350489f5cd38451358
-vendor/etc/acdbdata/MTP/MTP_Handset_cal.acdb|f072143056cb40ea8735fca92b54bcb62169fd97
-vendor/etc/acdbdata/MTP/MTP_workspaceFile.qwsp|29803647731a0cd64a0e707e4809e6c2a2d8dcf2
-vendor/etc/acdbdata/QRD/QRD_Bluetooth_cal.acdb|0364848ae2eb5505bdace46d6b8f1391a39095a8
-vendor/etc/acdbdata/QRD/QRD_General_cal.acdb|af85e877379f5844d8a87dac8187b1416fd89342
-vendor/etc/acdbdata/QRD/QRD_Global_cal.acdb|0ae1d3c0dfd9c27afd030584b233d2f4b454a743
-vendor/etc/acdbdata/QRD/QRD_Handset_cal.acdb|855422d5b156ed60f5f6bacb9458e85f6c67ed12
-vendor/etc/acdbdata/QRD/QRD_Hdmi_cal.acdb|457bd7d412d9359297b9923cee264214d013547a
-vendor/etc/acdbdata/QRD/QRD_Headset_cal.acdb|ba8ab21912dd9a8c41014f6c26f2dca6d4476fdf
-vendor/etc/acdbdata/QRD/QRD_Speaker_cal.acdb|b1a9a1497d1ecfab01e8a59d4c33410d409753a3
-vendor/etc/acdbdata/QRD/QRD_adsp_avs_config.acdb|6291d5e7457a962d9ba7bc0b3a33392abfe2cb27
-vendor/etc/acdbdata/QRD/QRD_workspaceFile.qwsp|d4834ad4800efc020335227229be770708806e83
+# Audio ACDB - from Ysl PKQ1.181203.001/V12.0.2.0.PEFMIXM
+vendor/etc/acdbdata/adsp_avs_config.acdb|2208f142a432cfc77652adab3e766cd0e44990b3
+vendor/etc/acdbdata/MTP/msm8953-tasha-snd-card/MTP_WCD9335_Bluetooth_cal.acdb|53bdf9cca8a562cf19f4e197ca5434fe33152187
+vendor/etc/acdbdata/MTP/msm8953-tasha-snd-card/MTP_WCD9335_General_cal.acdb|e2740bc5efc17f1cee7302afa605ff1fde09a833
+vendor/etc/acdbdata/MTP/msm8953-tasha-snd-card/MTP_WCD9335_Global_cal.acdb|61faa3e8361e3684af69eb67467800c2e806ac27
+vendor/etc/acdbdata/MTP/msm8953-tasha-snd-card/MTP_WCD9335_Handset_cal.acdb|1ee3e11bbc19d3abb8c291894b71e4bc4f2a1780
+vendor/etc/acdbdata/MTP/msm8953-tasha-snd-card/MTP_WCD9335_Hdmi_cal.acdb|c2fe203a7d715196b5fe7c527d7a829282f4d551
+vendor/etc/acdbdata/MTP/msm8953-tasha-snd-card/MTP_WCD9335_Headset_cal.acdb|1010f0ba2b93bd517a5616ef152c61dcbc649b2a
+vendor/etc/acdbdata/MTP/msm8953-tasha-snd-card/MTP_WCD9335_Speaker_cal.acdb|d0db8c712c4b76940a3ce47b974b4b109a006299
+vendor/etc/acdbdata/MTP/msm8953-tasha-snd-card/MTP_WCD9335_workspaceFile.qwsp|2f69cc59426ee270eee529907b8eaa769685644d
+vendor/etc/acdbdata/MTP/MTP_Bluetooth_cal.acdb|54165e0cc2170ba27eaf128b194f361204008148
+vendor/etc/acdbdata/MTP/MTP_General_cal.acdb|728e0375cb1154dc79c063a5726084937afe315d
+vendor/etc/acdbdata/MTP/MTP_Global_cal.acdb|b939606ae6134afa29957d29617eec3abfd0a26c
+vendor/etc/acdbdata/MTP/MTP_Handset_cal.acdb|ae6f372f51f9c33741dec5842efd078857985783
+vendor/etc/acdbdata/MTP/MTP_Hdmi_cal.acdb|fccd5038e282e59edd9b62ae8f2f274f19abaae2
+vendor/etc/acdbdata/MTP/MTP_Headset_cal.acdb|fe0160756c94ff41c1669e82e3a8ef8e82841db7
+vendor/etc/acdbdata/MTP/MTP_Speaker_cal.acdb|648159a5a7cd7760a512f27a226741336ebabc9e
+vendor/etc/acdbdata/MTP/MTP_workspaceFile.qwsp|44c0284d7fc1f4153a731d0792d71472109e9da2
 vendor/etc/acdbdata/QRD/msm8953-sku4-snd-card/QRD_SKU4_Bluetooth_cal.acdb|d5f95223a28fd906c55e11e1f796ff24daad3d57
 vendor/etc/acdbdata/QRD/msm8953-sku4-snd-card/QRD_SKU4_General_cal.acdb|2434f3c9e8b9e4557ac8279c786ebd367506908a
 vendor/etc/acdbdata/QRD/msm8953-sku4-snd-card/QRD_SKU4_Global_cal.acdb|6b3c7cec6a9c9c2db8b90e53eb61983e600c700a
@@ -20,6 +24,14 @@ vendor/etc/acdbdata/QRD/msm8953-sku4-snd-card/QRD_SKU4_Hdmi_cal.acdb|0b6dc414ed5
 vendor/etc/acdbdata/QRD/msm8953-sku4-snd-card/QRD_SKU4_Headset_cal.acdb|4e8967e5f524802d86eaf9d01ae91d206c7a15b5
 vendor/etc/acdbdata/QRD/msm8953-sku4-snd-card/QRD_SKU4_Speaker_cal.acdb|1a936249f86e89b2866aecfc14c6e4a38b12ac8d
 vendor/etc/acdbdata/QRD/msm8953-sku4-snd-card/QRD_SKU4_workspaceFile.qwsp|2a4c5a4dd0771a4df95069b8b7c45e54040e9518
+vendor/etc/acdbdata/QRD/QRD_Bluetooth_cal.acdb|0364848ae2eb5505bdace46d6b8f1391a39095a8
+vendor/etc/acdbdata/QRD/QRD_General_cal.acdb|af85e877379f5844d8a87dac8187b1416fd89342
+vendor/etc/acdbdata/QRD/QRD_Global_cal.acdb|0ae1d3c0dfd9c27afd030584b233d2f4b454a743
+vendor/etc/acdbdata/QRD/QRD_Handset_cal.acdb|855422d5b156ed60f5f6bacb9458e85f6c67ed12
+vendor/etc/acdbdata/QRD/QRD_Hdmi_cal.acdb|457bd7d412d9359297b9923cee264214d013547a
+vendor/etc/acdbdata/QRD/QRD_Headset_cal.acdb|ba8ab21912dd9a8c41014f6c26f2dca6d4476fdf
+vendor/etc/acdbdata/QRD/QRD_Speaker_cal.acdb|b1a9a1497d1ecfab01e8a59d4c33410d409753a3
+vendor/etc/acdbdata/QRD/QRD_workspaceFile.qwsp|d4834ad4800efc020335227229be770708806e83
 
 # Camera actuators - from Ysl PKQ1.181203.001/V10.3.2.0.PEFCNXM
 vendor/lib/libactuator_ysl_imx486_ofilm_india_i_dw9714v.so|d0085c61213fb411521d137a8c049bcd4605672b
