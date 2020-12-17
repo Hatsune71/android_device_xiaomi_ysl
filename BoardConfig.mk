@@ -187,7 +187,7 @@ TARGET_PROVIDES_QTI_TELEPHONY_JAR := true
 ENABLE_VENDOR_RIL_SERVICE := true
 
 # Security Patch Level
-VENDOR_SECURITY_PATCH := 2020-09-05
+VENDOR_SECURITY_PATCH := 2020-10-05
 
 # SELinux
 include device/qcom/sepolicy-legacy-um/SEPolicy.mk
